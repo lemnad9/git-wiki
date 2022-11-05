@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Explorer Cleanup (#7364)
