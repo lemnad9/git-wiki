@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Resize angle, count, and stage on keypoint number change (#7598)
