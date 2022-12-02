@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
