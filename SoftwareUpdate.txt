@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
