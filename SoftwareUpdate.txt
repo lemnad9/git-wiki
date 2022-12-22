@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
