@@ -1,1 +1,1 @@
-fix print val map
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
