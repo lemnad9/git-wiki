@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add YOLOv8 LibTorch C++ inference example (#7090)
