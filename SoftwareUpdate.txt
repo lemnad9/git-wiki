@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.0.229 add model.embed() method (#7098)
