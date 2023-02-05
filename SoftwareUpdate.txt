@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add type hinting to explorer.py (#7388)
