@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Update docs building code (#7601)
