@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
