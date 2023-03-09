@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
