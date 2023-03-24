@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
