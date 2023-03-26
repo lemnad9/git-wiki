@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
