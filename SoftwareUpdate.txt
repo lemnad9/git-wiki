@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
