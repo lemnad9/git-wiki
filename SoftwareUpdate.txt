@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.0.229 add model.embed() method (#7098)
