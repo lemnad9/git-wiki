@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
