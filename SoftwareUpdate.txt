@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Cleanup Docs languages (#7865)
