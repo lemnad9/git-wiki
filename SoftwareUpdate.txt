@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Docs updates and improvements (#8183)
