@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
