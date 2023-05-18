@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
