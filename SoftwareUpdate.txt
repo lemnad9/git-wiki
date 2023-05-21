@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix OBB xywh-angle concatenation bug (#7404)
