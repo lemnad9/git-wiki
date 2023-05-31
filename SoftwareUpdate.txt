@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add settings runs_dir == datasets_dir warning (#8653)
