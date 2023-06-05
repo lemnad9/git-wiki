@@ -1,1 +1,1 @@
-add yolov10
+ultralytics 8.1.33 fix HUB model checks (#9153)
