@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
