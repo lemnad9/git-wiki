@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add PR Summary step to Ultralytics Actions (#7675)
