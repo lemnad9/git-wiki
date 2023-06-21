@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
