@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
