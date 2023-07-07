@@ -1,1 +1,1 @@
-fix resume training
+Add bgr hyperparameter (#9139)
