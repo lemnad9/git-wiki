@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+YOLOv8 INT8 TFLite Inference Example (#7317)
