@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
