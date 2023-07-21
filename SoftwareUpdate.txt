@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix device counting method to account for double-digit device IDs (#8502)
