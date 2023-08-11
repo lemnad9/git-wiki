@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+update requirements.txt
