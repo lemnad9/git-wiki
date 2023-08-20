@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
