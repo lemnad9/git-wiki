@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
