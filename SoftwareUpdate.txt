@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Compare plt.get_backend() in lowercase (#8409)
