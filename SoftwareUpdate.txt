@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add Neural Magic Docs integrations page (#7234)
