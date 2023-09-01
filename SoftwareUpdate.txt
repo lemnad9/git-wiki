@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Update pyproject.toml and Docs (#7274)
