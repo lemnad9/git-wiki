@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Explorer with LanceDB, Actions and Docs updates (#7487)
