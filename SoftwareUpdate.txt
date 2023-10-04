@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
