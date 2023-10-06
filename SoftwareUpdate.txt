@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
