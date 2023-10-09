@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
