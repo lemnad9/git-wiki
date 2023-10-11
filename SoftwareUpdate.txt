@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix OpenVINO links (#7930)
