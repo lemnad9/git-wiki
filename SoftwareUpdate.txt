@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add new YOLOv8 OBB model metrics (#7379)
