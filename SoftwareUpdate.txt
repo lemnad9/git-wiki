@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
