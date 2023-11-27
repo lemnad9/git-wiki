@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
