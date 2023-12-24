@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Replace onnx2tf usage from CLI to Python (#8429)
