@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
