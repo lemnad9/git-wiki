@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update pyproject.toml and Docs (#7274)
