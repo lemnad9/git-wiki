@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update Discord and Contributing Guide URLs (#9270)
