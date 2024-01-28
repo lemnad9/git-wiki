@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Rename model_id to model.id (#8447)
