@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Optimize function calls to method calls (#8507)
