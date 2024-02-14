@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
