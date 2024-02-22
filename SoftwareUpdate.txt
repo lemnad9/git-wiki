@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Mkdocs updates (#8008)
