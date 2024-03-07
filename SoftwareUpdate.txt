@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Move Google Drive to slow tests (#8163)
