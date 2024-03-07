@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Update Colab notebook for YOLOv8.1 (#8660)
