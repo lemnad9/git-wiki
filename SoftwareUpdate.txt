@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
