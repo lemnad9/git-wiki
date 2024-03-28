@@ -1,1 +1,1 @@
-fix predict with class filter
+Add C++ Classify inference example (#6868)
