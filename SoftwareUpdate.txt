@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix OpenVINO links (#7930)
