@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Elaborate Train and Predict mode docs arguments (#8137)
