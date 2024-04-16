@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
