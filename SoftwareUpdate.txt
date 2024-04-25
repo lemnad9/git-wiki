@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Merge pull request #22 from SkalskiP/patch-1
