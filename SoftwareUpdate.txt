@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
