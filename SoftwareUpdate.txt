@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
