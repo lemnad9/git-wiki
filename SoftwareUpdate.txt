@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add type hinting to explorer.py (#7388)
