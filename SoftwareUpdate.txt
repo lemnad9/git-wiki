@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Auto-format by https://ultralytics.com/actions
