@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
